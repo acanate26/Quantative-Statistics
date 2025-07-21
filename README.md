@@ -1,2 +1,3 @@
-In these exams, we're trying to understand how violence affects communities using Path/Factor analysis, Poisson Regression, and statistical modeling. 
+Utilizing quantitative analysis in R programming to investigate how violence affects low-income communities.
+
 
