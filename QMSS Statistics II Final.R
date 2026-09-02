@@ -30,8 +30,6 @@ library(spdep)
 nb <- poly2nb(COUNT)
 moran.test(residuals(lm1), W)
 
-###1) Yeah, the spatial regression is fine
-
 ####2)Yes, the crime rate, based on the results, significantly predicts the 
 ###level of the social well-being. The negative coefficients means that the 
 ##higher crime rates are associated with lower well being. The crime rate is a 
